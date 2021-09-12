@@ -1,5 +1,5 @@
 # Introduction
-Joined Github yesterday. Lets see how this all develops.
+Joined Github yesterday. Lets see how this all developes.
 
 Until then, to *"humble beginning"*
 
