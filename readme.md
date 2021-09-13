@@ -14,5 +14,6 @@ Until then, to *"humble beginning"*
 - diving into the _Frontend_ of the Dev pool :zany_face:
 - get gut with git
 - forge my first "**real**" Project,
-check out the Progress:  
+check out the Progress:
+https://personal-website-snowy-sigma.vercel.app/  
 https://github.com/VB2webD/personal-website
