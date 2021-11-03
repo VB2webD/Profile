@@ -13,7 +13,7 @@ Until then, to *"humble beginning"*
 ## Goals for the next 3 month
 - diving into the _Frontend_ of the Dev pool :zany_face:
 - get gut with git
-- forge my first "**real**" Project,
+- forge my first "**real**" [Project](https://github.com/VB2webD/capstone),
 check out the Progress:  
 https://personal-website-snowy-sigma.vercel.app/  
 https://github.com/VB2webD/personal-website
